@@ -11,6 +11,6 @@ The credits of data for all elements goes to [Chris Andrejewski](https://github.
 ## Features: 
 1. Features a UICollectionViewFlowLayout customly written for the purpose of two way scrolling.
 2. Latest updated data on all elements. 
-3. Go-to reference guide for all things related elements.
+3. Go-to reference guide for all things related elements .
 
 
